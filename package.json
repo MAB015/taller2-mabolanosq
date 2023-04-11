@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/MAB015/taller2-mabolanosq/issues"
   },
-  "homepage": "https://github.com/MAB015/taller2-mabolanosq#readme"
+  "homepage": "https://github.com/MAB015/taller2-mabolanosq#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
 }
