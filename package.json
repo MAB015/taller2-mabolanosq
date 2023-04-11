@@ -1,0 +1,24 @@
+{
+  "name": "taller2-mabolanosq",
+  "version": "1.0.0",
+  "description": "Taller 2 - Unidersidad Distrital",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAB015/taller2-mabolanosq.git"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "github"
+  ],
+  "author": "Miguel Angel (@mab015)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MAB015/taller2-mabolanosq/issues"
+  },
+  "homepage": "https://github.com/MAB015/taller2-mabolanosq#readme"
+}
