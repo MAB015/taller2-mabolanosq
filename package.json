@@ -21,7 +21,7 @@
     "url": "https://github.com/MAB015/taller2-mabolanosq/issues"
   },
   "homepage": "https://github.com/MAB015/taller2-mabolanosq#readme",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^5.0.4"
   }
 }
